@@ -1,0 +1,9 @@
+This file marks my progress in understanding the Git workflow. So far, I've mastered:
+
+Navigating directories using the terminal.
+
+Using 'git add' to stage files.
+
+Using 'git commit' to save snapshots of my work.
+
+Syncing local changes with remote repositories.
